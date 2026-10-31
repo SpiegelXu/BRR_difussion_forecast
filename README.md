@@ -39,6 +39,10 @@ python run_llada.py --config configs/base.yaml
 
 To inspect the available configuration options and experiment settings, see `configs/` and `README.md` documentation as the project evolves. Depending on the experiment, you may need to configure model paths, datasets, and hardware settings before running.
 
+## Remark
+This is an initial release of the research codebase. Some components, including the SVD-based attention intervention and the unified-write implementation in the sampler, are not yet included. These components overlap with an ongoing related project and are temporarily withheld from this release.
+We plan to release the remaining implementations in a subsequent update soon.
+
 ## License
 
 This project is released under the MIT License, subject to the applicable licenses of third-party code and dependencies. See [LICENSE](LICENSE) for details.
