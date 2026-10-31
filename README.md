@@ -1,4 +1,4 @@
-# Readme
+# broadcast_repeat_reinforce
 
 **Code for mechanistic analysis of repetition collapse in diffusion language models (DLMs).**
 
